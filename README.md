@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Innocent Ndayizeye
 - 👀 I’m interested in web development and Machine learning
-- 🌱 I’m currently learning Applied Computer Technology
+- 🌱 I’m currently learning Applied Computer Technology at United States International University - Africa
 - 💞️ I’m looking to collaborate with other web developpers
 - 📫 How to reach me via my email, ndayizeyeinnocent173@gmail.com
 - 😄 Pronouns: He or him
